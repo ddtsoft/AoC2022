@@ -10,7 +10,7 @@
 #include <iostream>
 #include <sstream>
 #include <fstream>
-#include "AoC_Day2.h"
+#include "AoC2022.h"
 
 using namespace std;
 

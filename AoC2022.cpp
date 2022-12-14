@@ -1,11 +1,8 @@
 #include <iostream>
 #include <sstream>
 #include <fstream>
-#include "AoC_Day1.h"
-#include "AoC_Day2.h"
-#include "AoC_Day3.h"
-#include "AoC_Day4.h"
-#include "AoC_Day6.h"
+#include "AoC2022.h"
+
 
 
 
@@ -22,8 +19,14 @@ int main()
 	cout << "Day4\n";
 	AoC_Day4(true);
 	AoC_Day4(false);
-	*/
-	cout << "Day6\n";
-	AoC_Day6(true);
 
+	cout << "Day5\n";
+	AoC_Day5(false);
+	AoC_Day5(true);
+	
+	
+	//cout << "Day6\n";
+	//AoC_Day6(true);
+*/
+	AoC_Day10();
 }
